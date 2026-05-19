@@ -1,5 +1,7 @@
 # Security Notes Password Vault
 
+![Security Notes Password Vault](assets/security-notes-preview.png)
+
 Security Notes is a modern Java and JavaFX desktop application for storing passwords, private notes, and sensitive information in an encrypted local vault.
 
 The application is designed for offline use. Your data stays on your own computer and is protected by a master password.
