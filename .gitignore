@@ -1,0 +1,23 @@
+# Build output
+/out/
+
+# jpackage intermediate output
+/dist/input/
+/dist/runtime/
+/dist/app/
+/dist/app-check/
+/dist/portable/
+
+# Installer logs
+/dist/installer/*.log
+
+# Keep only the latest downloadable installer in Git
+/dist/installer/*.exe
+!/dist/installer/PC Security Notes-1.0.5.exe
+
+# Local IDE files
+/.vscode/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
