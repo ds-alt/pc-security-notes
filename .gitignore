@@ -13,7 +13,7 @@
 
 # Keep only the latest downloadable installer in Git
 /dist/installer/*.exe
-!/dist/installer/PC Security Notes-1.0.5.exe
+!/dist/installer/PC Security Notes-1.0.7.exe
 
 # Local IDE files
 /.vscode/
