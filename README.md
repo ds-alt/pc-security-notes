@@ -10,9 +10,7 @@ The application is designed for offline use. Your data stays on your own compute
 
 The Windows installation `.exe` is included in this repository for download:
 
-```text
-dist/installer/PC Security Notes-1.0.9.exe
-```
+[Download PC Security Notes for Windows](https://github.com/ds-alt/pc-security-notes/archive/refs/heads/main.zip)
 
 Download and run the installer to install Security Notes on Windows.
 
